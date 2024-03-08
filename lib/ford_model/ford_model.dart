@@ -1,0 +1,73 @@
+List fordModel = [
+  {
+    'name': 'Ford V8',
+    'image1': 'Ford/Ford V8/Ford Mustang V-8 USA 2024.jpeg',
+    'image2': 'Ford/Ford V8/download (12).jpeg',
+    'image3': 'Ford/Ford V8/612ca49b-12dd-4a46-ad4a-6b4c166a9b0c.jpeg',
+    'image4': 'Ford/Ford V8/050a6ee4-e6c3-4509-9d7e-dd5551f7ae9a.jpeg',
+    'image5': 'Ford/Ford V8/Mustang.jpeg',
+    'top speed': '161 MPH',
+    'year': '2024',
+    'KM allow per day': '350',
+  },
+  {
+    'name': 'Ford V10',
+    'image1': 'Ford/Ford V10/Ford GT 2020.jpeg',
+    'image2': 'Ford/Ford V10/Automotive Parts & Accessories - Amazon_com.jpeg',
+    'image3': 'Ford/Ford V10/Ford GT 2020.jpeg',
+    'image4': 'Ford/Ford V10/Ford Mustang V-8 2024 photo review.jpeg',
+    'image5': 'Ford/Ford V10/Unmatched Prestige of super luxury cars.jpeg',
+    'top speed': '90 to 120 mph',
+    'year': '2023',
+    'KM allow per day': '250 Km',
+  },
+  {
+    'name': 'Ford Mach-E',
+    'image1': 'Ford/Ford-mach-e/Ford Mustang Mach-E.jpeg',
+    'image2': 'Ford/Ford-mach-e/2021 Ford Mustang Mach-E SUV.jpeg',
+    'image3':
+        'Ford/Ford-mach-e/2023 Ford Mustang Mach-E Select SUV _ Model Details & Specs.jpeg',
+    'image4':
+        'Ford/Ford-mach-e/2024 Ford Mustang Mach-E Prices, Reviews, and Pictures _ Edmunds.jpeg',
+    'image5': 'Ford/Ford-mach-e/download (12).jpeg',
+    'top speed': '111 to 150 mph',
+    'year': '2022',
+    'KM allow per day': '140 mph',
+  },
+  {
+    'name': 'Ford Territory',
+    'image1':
+        'Ford/Ford territory/Ford Territory 2023 lướt bán lại lỗ ngỡ ngàng sau chưa đầy 1_000km lăn bánh (1).jpeg',
+    'image2': 'Ford/Ford territory/Ford Territory.jpeg',
+    'image3': 'Ford/Ford territory/Ford Territory Titanium 1_5 Turbo 2021.jpeg',
+    'image4': 'Ford/Ford territory/Fotos da Territory 2022.jpeg',
+    'image5':
+        'Ford/Ford territory/New 2021 Ford Territory - Budget Family SUV Interior & Exterior.jpeg',
+    'top speed': '110 to 120 mph',
+    'year': '2022',
+    'KM allow per day': '120 mph',
+  },
+  {
+    'name': 'Ford F-150 ',
+    'image1': 'Ford/Ford-f-150/Ford F-150.jpeg',
+    'image2': 'Ford/Ford-f-150/b61c56ad-34ce-4718-8e2c-1f0fb57a50c3.jpeg',
+    'image3': 'Ford/Ford-f-150/Ford.jpeg',
+    'image4': 'Ford/Ford-f-150/7c3d5d55-8995-4828-93c9-ba8db4d723b6.jpeg',
+    'image5': 'Ford/Ford-f-150/Ford F150.jpeg',
+    'top speed': '100 to 130 mph',
+    'year': '2022',
+    'KM allow per day': '120 mph',
+  },
+  {
+    'name': 'Ford F-200 ',
+    'image1': 'Ford/Ford-f-200/fa481170-ea9c-4281-9eec-0bc57229c1d1.jpeg',
+    'image2': 'Ford/Ford-f-200/FORD RAPTOR.jpeg',
+    'image3': 'Ford/Ford-f-200/Heavily Lifted F-150.jpeg',
+    'image4':
+        'Ford/Ford-f-200/Top 10 Lifted Ford Trucks Modified for Off-roading and Desert Racing.jpeg',
+    'image5': 'Ford/Ford-f-200/TuffTruckParts_com.jpeg',
+    'top speed': '100 to 130 mph',
+    'year': '2024',
+    'KM allow per day': '120 mph',
+  },
+];
